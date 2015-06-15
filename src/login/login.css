@@ -1,0 +1,18 @@
+.login {
+  width      : 350px;
+  margin-top : 100px;
+}
+
+.form-control, .alert {
+  margin-top : 10px;
+  font-size  : 12px;
+}
+
+.login-action {
+  height     : 50px;
+  margin-top : 25px
+}
+
+.well {
+  height : 225px;
+}
